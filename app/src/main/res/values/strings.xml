@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zolavor</string>
+    <string name="hero_badge_label">Imported Repository</string>
+    <string name="hero_title">Built with AI Studio</string>
+    <string name="hero_subtitle">The fastest path from prompt to production with Gemini.</string>
+    <string name="hero_banner_content_description">Zolavor geometric striped light banner</string>
+    <string name="action_start_building">Start building</string>
+    <string name="action_copy_url">Copy link</string>
+    <string name="tab_overview">Overview</string>
+    <string name="tab_readme_source">README.md</string>
+    <string name="repo_section_title">Repository Snapshot</string>
+    <string name="repo_owner_label">Repository</string>
+    <string name="repo_owner_value">thoalphqarsadown-stack/Zolavor-</string>
+    <string name="repo_files_label">Imported Files</string>
+    <string name="repo_files_value">1 file (README.md only)</string>
+    <string name="repo_runtime_label">Target Runtime</string>
+    <string name="repo_runtime_value">Android · Kotlin + Jetpack Compose</string>
+    <string name="empty_source_notice_title">Starter Repository Detected</string>
+    <string name="empty_source_notice_body">The imported repository contained only README.md with no source modules or application logic. This Android shell preserves the repository header and external link while staying ready for your features.</string>
+    <string name="readme_card_title">Original README.md</string>
+    <string name="readme_copy_source">Copy source</string>
+    <string name="snackbar_link_copied">Link copied to clipboard</string>
+    <string name="snackbar_source_copied">README.md copied to clipboard</string>
+    <string name="snackbar_browser_unavailable">No browser app available to open link</string>
+</resources>

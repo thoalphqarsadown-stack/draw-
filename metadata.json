@@ -1,0 +1,8 @@
+{
+  "name": "Zolavor",
+  "description": "Android rewrite of the Zolavor AI Studio repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
